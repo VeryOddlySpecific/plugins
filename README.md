@@ -9,3 +9,4 @@ This plugin does several things:
 5. Then, getting the city, state, and phone metadata from the City post type, replaces any placeholders ( {_city}, {_state}, {_phone}) with the data from the metadata.
 6. It also checks for a Universal Content section, which, if enabled, would output the same single block on the top of every landing page.
 7. It allows for the import of a csv file with city, state, and phone data and and generates a City post with that data
+8. It creates archive pages to show a full list of cities, content, and faqs
